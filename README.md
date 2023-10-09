@@ -26,5 +26,5 @@ The dataset used for this project contains passenger information, including deta
 ## Goal
 Our primary goal is to build a predictive model that can identify patterns and relationships within the dataset to estimate the likelihood of survival for individual passengers. This model can provide valuable insights into the factors that played a role in the Titanic tragedy.
 
-Acknowledgments
+## Acknowledgments
 Special thanks to the Kaggle community for providing the Titanic dataset and inspiring this project.
